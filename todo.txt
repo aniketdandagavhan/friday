@@ -1,0 +1,12 @@
+Todo - 
+1) A.I. with nlp, ml, ai (DONE)
+2) Speak with good feel voice (DONE)
+3) Fast listen and response (DONE)(BASED ON INTERNET)
+4) Face Recognition Lock and voice Recognition (DONE)(VOICE Recognition IS PENDING)
+5) Different Modes like - Hotword, Command, Browser, Youtube, Code, Game etc. (working on it)
+6) Can set timers and alarms
+7) Can remember my tasks and notify me when I want
+8) Can book online tickets for me (including movies, trains, hotels, flights)
+9) Can see cabs and rickshaw prices on ola, uber, rapido and can book if I want to
+10) Can remember previous context. (need to extract same content from previous two commands and if command includes this and that then replace it with this context)
+11) Can help me in my daily tasks (like create files, open vs code, play some music etc.)

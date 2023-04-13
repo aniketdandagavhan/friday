@@ -1,0 +1,75 @@
+{
+    "intents":[
+        {
+            "tag":"addFace",
+            "patterns":["add my face in samples", "take samples of my face", "add his face database", "add face", "add my face", "add new face in database", "take samplese of his face", "take new samples of face"
+            ],
+            "responses":["Okay Boss!", "okay"
+            ]
+        },
+        {
+            "tag":"recogniseFaces",
+            "patterns":["can you recognise", "tell us who we are", "recognise us", "recognize us", "recognise our faces", "recognise kro"
+            ],
+            "responses":["initiating face recognition", "Wait I do!", "Okay Boss!", "scanning scanning!"
+            ]
+        },
+        {
+            "tag":"bye",
+            "patterns":["bye","goodbye","see you later","sleep","exit", "quit", "take some rest", "take a break"
+            ],
+            "responses":["Bye. see ya!","I am Going.","Bye, Boss.","Good Bye",
+            "It'll be Nice, To Meet You Again!","See You Later."
+            ]
+        },
+        {
+            "tag":"virtualMouse",
+            "patterns":["start virtual mouse","turn on virtual mouse","virtual mouse ko on kro", "virtual mouse chalao"
+            ],
+            "responses":["Okay Boss!","yes, boss!", "done boss!", "yes, I do!"
+            ]
+        },
+        {
+            "tag":"gmap",
+            "patterns":["find", "directions", "direction", "give me direction", "give me directions", "give me direction to", "give me directions to"
+            ],
+            "responses":["searching", "let's see on google maps", "okay", "done boss!", "Okay Boss!", "giving boss!!", "on it boss!!"
+            ]
+        },
+        {
+            "tag":"remember",
+            "patterns":["remember this", "remember that", "remind this", "remind that", "reminder", "reminders", "note this", "note that", "save a note", "save a"
+            ],
+            "responses":["Okay Boss!"
+            ]
+        },
+        {
+            "tag":"readReminder",
+            "patterns":["read my reminders", "read my reminder", "read reminder", "read reminders", "today's notes", "reminders", "reminder"
+            ],
+            "responses":["Okay Boss!"
+            ]
+        },
+        {
+            "tag":"open",
+            "patterns":["open vs code", "open chrome", "open slack", "open youtube"
+            ],
+            "responses":["opening boss.", "launching boss.", "Okay Boss!"
+            ]
+        },
+        {
+            "tag":"close",
+            "patterns":["close vs code", "close chrome", "close slack", "close youtube"
+            ],
+            "responses":["closing boss.", "closing.", "Okay Boss!"
+            ]
+        },
+        {
+            "tag":"warning",
+            "patterns":["do you harm anyone","attack humans","attack","harm humans"
+            ],
+            "responses":["hmm! Let me think! Obviously not.","Naahh! it's against rules."
+            ]
+        }
+    ]
+}
